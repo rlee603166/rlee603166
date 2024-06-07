@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🎓I’m a Data Science and Mathematrics major at the Univeristy of Rochester<br>🔭 I'm currently working on a pairs trading ML model <br>🌱 I’m currently learning ML/DL concepts and techniques, and would love any tips/tricks
 
 
 # 💻 Tech Stack:
