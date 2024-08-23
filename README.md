@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🎓I’m a Computer Science and Mathematrics major at the Univeristy of Rochester<br>🔭 I'm currently working on a computer vision project <br>🌱 I’m currently learning ML/DL concepts and techniques, and would love any tips/tricks
+🎓I’m a Computer Science and Mathematrics major at the University of Rochester<br>🔭 I'm currently working on a computer vision project <br>🌱 I’m currently learning ML/DL concepts and techniques, and would love any tips/tricks
 
 ## 🤝 Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rlee51) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rlee51) 
